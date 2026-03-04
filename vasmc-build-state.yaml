@@ -1,10 +1,10 @@
 version: 1
 entries:
   prompt-src/emergence/prompt.vasm.md|zh-CN:
-    inputSignature: 6f90babad41d03b5308e7473efc175e05ca3f7fc70eb37b1060231e5443ec53c
+    inputSignature: 4ed59e9c6b0f775928f0916e4ccf4b020969ec255fcf5d18914fcea17195cca2
     outputFile: prompt/emergence/prompt.zh-CN.md
     targetLang: zh-CN
   prompt-src/emergence/prompt.vasm.md|en:
-    inputSignature: 6f90babad41d03b5308e7473efc175e05ca3f7fc70eb37b1060231e5443ec53c
+    inputSignature: 4ed59e9c6b0f775928f0916e4ccf4b020969ec255fcf5d18914fcea17195cca2
     outputFile: prompt/emergence/prompt.en.md
     targetLang: en
